@@ -1,0 +1,73 @@
+/* .GeneralMainBox{ */
+    /* border: 1px solid red; */
+    /* width: 60%; */
+    /* height: 300px; */
+/* } */
+
+
+.prMainBox{
+    /* border: 1px solid black; */
+    width: 80%;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+
+.prMianLeft{
+    /* border: 1px solid red; */
+    width: 60%;
+}
+
+
+.prMianRight{
+    /* border: 1px solid black; */
+    width: 40%;
+}
+
+
+.ImageFlexBox{
+    /* border: 1px solid red; */
+    width: 80%;
+    /* height: 80px; */
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+
+.ImageFlexLeftBox{
+    /* border: 1px solid black; */
+    width: 60%;
+    /* height: 100%; */
+}
+
+
+.ImageFlexRightBox{
+    /* border: 1px solid black; */
+    width: 40%;
+    /* height: 100%;  */
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.ImageFlexRightBox:hover{
+  background-color: rgb(248, 245, 245);
+  cursor: pointer;
+}
+
+
+.image{
+    border-radius: 50%;
+    height: 50px;
+}
+
+
+.AddressBox{
+    /* border: 1px solid black; */
+    margin-top: 25px;
+    width: 80%;
+}

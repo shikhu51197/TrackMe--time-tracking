@@ -1,0 +1,19 @@
+.BillMainBox{
+    /* border: 1px solid black; */
+    /* height: 200px; */
+    margin-top: 30px;
+}
+
+
+
+.BillNotCheck{
+    border: 1px solid lightgray;
+    width: 80%;
+    height: 50px;
+    background-color: #f6f7f8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    margin-top: 20px;
+}

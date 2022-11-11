@@ -1,0 +1,172 @@
+.heading {
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+.mainBox {
+    border: 1px solid rgb(202, 202, 202);
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.inviteBox {
+    border-bottom: 1px solid rgb(202, 202, 202);
+    width: 100%;
+    height: 55px;
+}
+
+
+
+.inviteBox_btn {
+    border: 1px solid green;
+    padding: 5px 20px;
+    background-color: rgb(48, 112, 240);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-top: 15px;
+    text-transform: capitalize;
+}
+
+.inviteBox_btn:hover {
+    background-color: blue;
+    transition: 0.5s ease-in-out;
+}
+
+.contain_table {
+    border-collapse: collapse;
+    /* margin: 10px 0; */
+    width: 100%;
+}
+
+.contain_table thead th {
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-size: 16px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgb(116, 123, 136);
+    font-weight: 100;
+    color: rgb(116, 123, 136);
+    text-transform: uppercase;
+}
+
+.contain_table thead th:hover {
+    background-color: rgb(239, 239, 239);
+}
+
+.contain_table thead th:nth-child(1) {
+    width: 40%;
+
+}
+
+.contain_table tbody td {
+
+
+    padding: 10px 10px 10px 30px;
+    border-bottom: 1px solid rgb(116, 123, 136);
+    cursor: pointer;
+
+}
+
+
+.contain_table tbody tr:hover {
+    background-color: rgb(239, 239, 239);
+    transition: 0.3s ease-in;
+}
+
+
+
+#mymodal {
+    cursor: pointer;
+    margin: auto;
+    height: auto;
+    width: 400px;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: rgb(242, 245, 252);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transition: 0.5s ease-in;
+
+}
+
+.searchEmail_Div {
+
+    text-align: center;
+    height: 40px;
+    font-size: 20px;
+    border-bottom: 1px solid black;
+
+}
+
+.searchEmail_Div:hover {
+    background-color: rgb(166, 175, 208);
+    transition: 0.2s ease-in;
+}
+
+.searchEmail_Div:first-child {
+    margin-top: 10px;
+}
+
+
+
+.roleA {
+    color: black;
+    background-color: rgb(255, 234, 232);
+    border-radius: 10px;
+    width: 100px;
+    padding-left: 25px;
+    font-size: 12px;
+}
+
+.role1 {
+    color: black;
+    background-color: rgb(250, 223, 176);
+    border-radius: 10px;
+    width: 100px;
+    padding-left: 25px;
+    font-size: 12px;
+}
+
+.role2 {
+    color: black;
+    background-color: rgb(202, 202, 202);
+    border-radius: 10px;
+    width: 120px;
+    padding-left: 25px;
+    font-size: 12px;
+}
+
+.active {
+    color: black;
+    background-color: rgb(227, 248, 230);
+    border-radius: 10px;
+    font-size: 12px;
+    width: 100px;
+    padding-left: 30px;
+}
+
+.editButton {
+    padding: 5px;
+    transition: 0.5s ease-in-out;
+    background-color: transparent;
+}
+
+.editButton:hover {
+    background-color: rgb(178, 174, 165);
+    border-radius: 15px;
+
+
+}
+
+.roleBox {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

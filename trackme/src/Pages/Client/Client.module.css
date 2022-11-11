@@ -1,0 +1,102 @@
+.ClientMainBox{
+   /* border: 1px solid black; */
+   width: 95%;
+   height: 700px;
+   margin: auto;
+}
+
+
+.ClientText{
+ font-size: 26px;
+ letter-spacing: 1px;
+ font-weight: 450;
+}
+
+
+.ClientBtnBox{
+   border: 1px solid lightgray;
+   height: 70px;
+   margin-top: 10px;
+   border-top-left-radius: 5px;
+   border-top-right-radius: 5px;
+}
+
+.ClientBtn{
+    color: white;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 0px 20px;
+    letter-spacing: 1px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+
+.filterBox{
+   border: 1px solid lightgray;
+   height: 50px;
+   border-top: none;
+   display: flex;
+}
+
+
+.filterLeftBox{
+   /* border: 1px solid black; */
+   height: 100%;
+   width: 75%;
+   display: flex;
+   align-items: center;
+   padding-left: 15px;
+   gap: 10px;
+}
+
+
+.filterRightBox{
+   /* border: 1px solid black; */
+   height: 100%;
+   width: 25%;
+   display: flex;
+}
+
+
+.filterRightLeftBox{
+   /* border: 1px solid red; */
+   height: 100%;
+   width: 50%;
+   display: flex;
+   align-items: center;
+   gap: 10px;
+}
+
+
+.mapBox{
+   border: 1px solid lightgray;
+   height: 50px;
+   border-top: none;
+   display: flex; 
+}
+
+
+.MapleftBox{
+   /* border: 1px solid black; */
+   height: 100%;
+   width: 75%;
+   display: flex;
+   align-items: center;
+   gap: 10px;padding-left: 15px;
+}
+
+
+.MapRightBox{
+   /* border: 1px solid black; */
+   height: 100%;
+   width: 25%;
+   display: flex;
+   justify-content: right;
+}
+
+
+.image{
+   border-radius: 50%;
+   /* height: 50px; */
+}

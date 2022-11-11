@@ -1,0 +1,251 @@
+.SingupInputs {
+    border: 1px solid rgb(178, 174, 165);
+    outline: none !important;
+    background-color: rgb(250, 250, 250);
+    margin-left: 100px;
+    padding-left: 15px;
+    position: relative;
+}
+
+
+
+
+.PasswordShowBtn {
+    position: absolute;
+    cursor: pointer;
+    margin-left: 390px;
+    margin-top: -30px;
+}
+
+.SingupBtn {
+
+    border-radius: 10px;
+    width: 60%;
+    height: 40px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 8px;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color: rgb(0, 133, 252);
+    color: white;
+    margin-top: 10px;
+}
+
+.LoginBtn {
+    border-radius: 10px;
+    width: 80%;
+    height: 40px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 8px;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color: rgb(0, 133, 252);
+    color: white;
+    margin-top: 20px;
+}
+
+.LoginBtn:hover {
+    background-color: rgb(4, 91, 168);
+}
+
+.SingupBtn:hover {
+    background-color: rgb(4, 91, 168);
+
+}
+
+.LoginInputs {
+    border: 1px solid rgb(178, 174, 165);
+    outline: none !important;
+    width: 70%;
+    height: 40px;
+    background-color: rgb(250, 250, 250);
+    margin-left: 60px;
+    padding-left: 10px;
+    padding-top: 10px;
+    position: relative;
+}
+
+
+
+.ForgotPass {
+    padding-left: 250px;
+    padding-top: 10px;
+    margin-bottom: 100px;
+    color: rgb(0, 133, 252);
+    cursor: pointer;
+
+}
+
+
+
+.LoginInputsPassword {
+    border: 1px solid rgb(178, 174, 165);
+    outline: none !important;
+    width: 70%;
+    height: 40px;
+    background-color: rgb(250, 250, 250);
+    margin-left: 60px;
+    padding-left: 10px;
+    margin-top: 30px
+}
+
+.PasswordShowBtn_Login {
+    padding-right: 168px;
+    padding-top: 60px;
+    cursor: pointer;
+}
+
+.end {
+
+    text-align: center;
+    margin-top: 10px;
+
+
+}
+
+.end span {
+    color: rgb(0, 133, 252);
+    cursor: pointer;
+
+}
+
+.Loginstore {
+    border-top: 1px solid #000;
+    width: 80%;
+    align-items: center;
+    margin: auto;
+}
+
+.Loginstore div img {
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.Loginstore div p {
+    margin-top: 8px;
+    margin-left: 10px;
+}
+
+.Loginstore div:hover {
+    transition: 0.3s ease-in-out;
+    background-color: rgba(31, 28, 28, 0.103);
+    cursor: pointer;
+
+}
+
+.LoginMainBox {
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+
+}
+
+.LoginInput {
+    border: 1px solid rgb(178, 174, 165);
+    outline: none !important;
+    background-color: rgb(250, 250, 250);
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    padding-left: 15px;
+    position: relative;
+}
+
+.store {
+    /* borderTop='1px solid rgb(178, 174, 165) */
+
+    border-top: 1px solid #000;
+    width: 60%;
+    align-items: center;
+    margin: auto;
+
+
+}
+
+.store div img {
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+.store div p {
+    margin-top: 8px;
+    margin-left: 10px;
+}
+
+.store div:hover {
+    transition: 0.3s ease-in-out;
+    background-color: rgba(31, 28, 28, 0.103);
+    cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
+
+
+.InputWrap {
+    position: relative;
+    height: auto;
+    width: auto;
+
+}
+
+
+
+.FlexBox {
+    /* mt='10px' border='1px solid black' 
+    justifyContent='center' w='75%' h='1000px' m='auto' */
+
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+
+    border-radius: 10px;
+
+    justify-content: center;
+    width: 75%;
+    height: auto;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.rightImg {
+
+    width: 50%;
+    height: auto;
+
+    border-radius: 0 10px 10px 0;
+}
+
+.rightImg img {
+
+    width: 100%;
+    height: 100%;
+    border-radius: 0 10px 10px 0;
+
+}
+
+.checkboxCondition {
+    display: flex;
+    font-size: 14px;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.checkboxCondition label {
+    text-transform: capitalize;
+    padding-left: 10px;
+
+
+}

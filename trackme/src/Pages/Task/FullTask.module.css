@@ -1,0 +1,39 @@
+
+.fulltaskDiv{
+    width: 90%;
+    margin: auto;
+}
+.accordonDiv{
+    border: 1px solid rgb(105, 105, 105);
+}
+.fulltaskIcon{
+    margin: 8px;
+    padding: px;
+    font-size: 1.7em;
+    color: rgb(158, 156, 156);
+
+}
+.fulltaskAccordondiv{
+    border-bottom: 1px solid rgb(158, 156, 156);
+    display: flex;
+    justify-content: space-between;
+}
+.fulltaskAccordonpanel{
+    margin: 10px;
+    padding: 3px;
+    display: flex;
+    gap: 20px;
+}
+.fulltaskicon{
+    font-size: 1.4em;
+}
+.accordonBottomDiv{
+    width: 90%;
+    margin: auto;
+    border-bottom: 1px solid rgb(156, 155, 155);
+}
+.accordonBottomDiv > input{
+    font-size: 18px;
+    width: 100%;
+    padding: 8px;
+}

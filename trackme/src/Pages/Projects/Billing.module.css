@@ -1,0 +1,82 @@
+.BillMainBox{
+    /* border: 1px solid black; */
+    /* height: 200px; */
+    margin-top: 30px;
+}
+
+
+
+.BillNotCheck{
+    border: 1px solid lightgray;
+    width: 80%;
+    height: 50px;
+    background-color: #f6f7f8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+
+.billCheck{
+    /* border: 1px solid blue; */
+    width: 80%;
+    /* height: 200px; */
+    margin-top: 20px;
+}
+
+
+
+/* .InBillNotCheck{ */
+    /* border: 1px solid red; */
+    /* height: 150px; */
+/* } */
+
+
+.InBillCurr{
+    /* border: 1px solid black; */
+    width: 60%;
+    margin-top: 20px;
+    /* height: 100%; */
+}
+
+
+.Billinside{
+    /* border: 1px solid red; */
+    width: 60%;
+    /* height: 80px; */
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+
+.BillInsLeft{
+    /* border: 1px solid black; */
+    width: 60%;
+    /* height: 100%; */
+}
+
+
+
+.FreeThreeFlex{
+    width: 100%;
+    /* height: 80px; */
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+
+
+.FreeLeft{
+    width: 33%;
+}
+
+
+
+
+
