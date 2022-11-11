@@ -1,0 +1,24 @@
+.image {
+    background-image: 
+    url(
+  "https://tmetric.com/media/w53hmkzd/img-video-cover.png");
+    /* background-size: "cover"; */
+    height: 100%;
+    width: 100%;
+    font-size:50px;
+    background-repeat:no-repeat; 
+  }
+
+  .scrollbarRemover::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+  }
+  
+  .scrollbarRemover::-webkit-scrollbar-track {
+    background: none;        /* color of the tracking area */
+  }
+  
+  .scrollbarRemover::-webkit-scrollbar-thumb {
+    background-color: none;    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: none;  /* creates padding around scroll thumb */
+  }

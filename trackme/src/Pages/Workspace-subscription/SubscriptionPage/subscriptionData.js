@@ -1,0 +1,43 @@
+export const businessList = [
+    "Time tracking",
+    "Unlimited projects and clients",
+    "Reporting",
+    "Web apps integration",
+    "Billable rates and money tracking",
+    "Budgeting for projects",
+    "Invoicing",
+    "Task management",
+    "Calendar integrations: Google, Outlook",
+    "Activity levels for employees",
+    "Apps and sites usage reports",
+    "Screenshots capturing",
+    "Client logins for access to reports",
+    "Paid time off tracking",
+    "Payroll for employees",
+    "Workweek and holidays settings",
+    "Time tracking permissions",
+    "Time-sync with QuickBooks",
+    "Time-sync with Jira, GitLab, Redmine"
+    ]
+
+// export const professionalList = [
+// "Time tracking",
+// "Unlimited projects and clients",
+// "Reporting",
+// "Web apps integration",
+// "Billable rates and money tracking",
+// "Budgeting for projects",
+// "Invoicing",
+// "Task management",
+// "Calendar integrations: Google, Outlook",
+// "Activity levels for employees",
+// "Apps and sites usage reports",
+// "Screenshots capturing",
+// "Client logins for access to reports",
+// "Paid time off tracking",
+// "Payroll for employees",
+// "Workweek and holidays settings",
+// "Time tracking permissions",
+// "Time-sync with QuickBooks",
+// "Time-sync with Jira, GitLab, Redmine"
+// ]
